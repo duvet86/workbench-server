@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{"./src/pagebuilder/Pagebuilder.tsx":function(e,a,n){"use strict";n.r(a);var s=n("./node_modules/react/index.js"),t=n.n(s),c=n("./node_modules/@material-ui/core/styles/index.js"),i=n("./node_modules/@material-ui/core/Grid/index.js"),r=n.n(i);const o=Object(c.createStyles)({container:{padding:25}});a.default=Object(c.withStyles)(o)(({classes:e})=>t.a.createElement(r.a,{container:!0,className:e.container},t.a.createElement(r.a,{item:!0,xs:12},"Workbench")))}}]);
+//# sourceMappingURL=7.bundle.js.map
