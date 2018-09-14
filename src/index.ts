@@ -1,11 +1,9 @@
 #!/usr/bin/env node
 
-/**
- * Module dependencies.
- */
-import app from "./server";
 import http from "http";
 import _debug from "debug";
+
+import app from "./app";
 
 const debug = _debug("express:server");
 
