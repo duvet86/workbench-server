@@ -51,9 +51,9 @@
     "@types/express-serve-static-core" "*"
     "@types/serve-static" "*"
 
-"@types/helmet@^0.0.41":
-  version "0.0.41"
-  resolved "https://registry.yarnpkg.com/@types/helmet/-/helmet-0.0.41.tgz#c113fc815bc18cf69999adff5323daf9bd46bf0d"
+"@types/helmet@^0.0.42":
+  version "0.0.42"
+  resolved "https://registry.yarnpkg.com/@types/helmet/-/helmet-0.0.42.tgz#845954fb171000c9b9caa367febf6769bd589eaa"
   dependencies:
     "@types/express" "*"
 
@@ -261,9 +261,9 @@ debug@2.6.9:
   dependencies:
     ms "2.0.0"
 
-debug@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/debug/-/debug-4.0.0.tgz#ef7592a30b1c5e05a78e96926df2e6b36b5544e7"
+debug@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/debug/-/debug-4.0.1.tgz#f9bb36d439b8d1f0dd52d8fb6b46e4ebb8c1cd5b"
   dependencies:
     ms "^2.1.1"
 
@@ -799,9 +799,9 @@ type-is@~1.6.15, type-is@~1.6.16:
     media-typer "0.3.0"
     mime-types "~2.1.18"
 
-typescript@^3.0.3:
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.0.3.tgz#4853b3e275ecdaa27f78fda46dc273a7eb7fc1c8"
+typescript@^3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.1.1.tgz#3362ba9dd1e482ebb2355b02dfe8bcd19a2c7c96"
 
 unpipe@1.0.0, unpipe@~1.0.0:
   version "1.0.0"
