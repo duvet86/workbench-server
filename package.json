@@ -5,7 +5,8 @@
   "license": "MIT",
   "scripts": {
     "build": "tsc",
-    "start": "ts-node ./src/index.ts"
+    "start": "ts-node ./src/index.ts",
+    "test": "echo \"Error: no test specified\""
   },
   "dependencies": {
     "compression": "^1.7.3",
